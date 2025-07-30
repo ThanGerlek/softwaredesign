@@ -27,7 +27,7 @@ The content for this course can be accessed using the following links:
 - [Syllabus](syllabus/syllabus.md) - Course syllabus and policies
 - [Schedule](schedule/schedule-fall-2025.md) - Course schedule
 - [TAs](tas/tas.md) - TA policies and schedule
-- [Slack]() - Invitation to course Slack
+- [Slack](https://join.slack.com/t/byu-cs-340/shared_invite/zt-2xp01qce8-9POwOGVCu1uZiX9qihVDxw) - Invitation to course Slack
 - [Instruction](instruction/modules.md) - Pre-class preparation, lecture slides/files/notes/videos
 - [Image Editor](image-editor/image-editor.md) - Image Editor assignment specification
 - [Tweeter](tweeter/tweeter.md) - Tweeter project overview and specifications
