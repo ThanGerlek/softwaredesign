@@ -2,7 +2,7 @@
 
 | Week | Day | Date       | Topics                                                    | Deliverable                              |
 | :--: | :-: | ---------- | ----------------------------------------------------------| ---------------------------------------- |
-|  1   |  1  | Wed Sep 3  | Introduction<br /> [TypeScript Fundamentals 1](../instruction/typescript-fundamentals-1/typescript-fundamentals-1.md)<br /> [Intro to Image Editor Assignment](../instruction/image-editor/image-editor.md) |                                         |
+|  1   |  1  | Wed Sep 3  | [Course Overview](../instruction/course-overview/course-overview.md)<br/> [TypeScript Fundamentals 1](../instruction/typescript-fundamentals-1/typescript-fundamentals-1.md)<br /> [Intro to Image Editor Assignment](../instruction/image-editor/image-editor.md) |                                         |
 |      |     | Thu Sep 4  | | Javascript Fundamentals Quiz |
 |  2   |  2  | Mon Sep 8  | [TypeScript Fundamentals 2](../instruction/typescript-fundamentals-2/typescript-fundamentals-2.md) | TypeScript Fundamentals Quiz |
 |      |  3  | Wed Sep 10 | [React Fundamentals / React Router](../instruction/react-fundamentals-router/react-fundamentals-router.md) | React Fundamentals / React Router Quiz |

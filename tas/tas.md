@@ -19,7 +19,7 @@ Normal Hours
 | 4:00 - 4:59 PM | Class | In-person: Than | Zoom: Olivia, Seth	| In-person: Than | In-person: Than |
 | 5:00 - 5:59 PM | | | Zoom: Olivia | | |
 			
-**NOTE: There is a 3 visit limit for TA help per day.**
+**Note: There is a 3 visit limit for TA help per day.**
 
 ## For help during class hours:
 
