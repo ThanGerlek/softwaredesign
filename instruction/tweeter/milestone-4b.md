@@ -2,4 +2,4 @@
 
 ## Pre-class Preparation
   
-Read the [Milestone 4 Part B: Scalable Status Processing](../../tweeter/milestone-4b.md) specification.
+Read the [Milestone 4 Part B: Scalable Status Processing](../../tweeter/milestone-4b/milestone-4b.md) specification.

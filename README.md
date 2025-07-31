@@ -31,7 +31,7 @@ The content for this course can be accessed using the following links:
 - [Instruction](instruction/instruction.md) - Pre-class preparation, Lecture slides/files/notes/videos, In-class exercises
 - [Image Editor](image-editor/image-editor.md) - Image Editor assignment specification
 - [Tweeter](tweeter/tweeter.md) - Tweeter project overview and specifications
-    - [M1](tweeter/milestone-1.md) - [M2A](tweeter/milestone-2a.md) - [M2B](tweeter/milestone-2b.md) - [M2C](tweeter/milestone-2c.md) - [M3](tweeter/milestone-3.md) - [M4A](tweeter/milestone-4a.md) - [M4B](tweeter/milestone-4b.md)
+    - [M1](tweeter/milestone-1/milestone-1.md) - [M2A](tweeter/milestone-2a/milestone-2a.md) - [M2B](tweeter/milestone-2b/milestone-2b.md) - [M2C](tweeter/milestone-2c/milestone-2c.md) - [M2C Docs](tweeter/milestone-2c/milestone-2c-docs.md) - [M3](tweeter/milestone-3/milestone-3.md) - [M3 Docs](tweeter/milestone-3/milestone-3-docs.md) - [M4A](tweeter/milestone-4a/milestone-4a.md) - [M4B](tweeter/milestone-4b/milestone-4b.md)
 - [Instructor Information](teachers/teachers.md) - Instructor contact information
 - [Canvas](https://byu.instructure.com/) - Take quizzes and view grades
 
