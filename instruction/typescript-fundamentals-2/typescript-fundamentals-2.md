@@ -2,7 +2,7 @@
 
 ## Pre-class Preparation
 
-Read the following from Programming Typescript (available from Safari Books Online from the library's web site):
+Read the following from Programming Typescript (available from O'Reilly Books Online from the library's web site):
 
 - Chapter 3: All About Types [28 pages]
 - Chapter 4: Functions [stop at the "Polymorphism" section] [10 pages]

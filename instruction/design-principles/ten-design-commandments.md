@@ -1,4 +1,5 @@
 # The Ten Design Commandments
+
 1. Thou shalt keep it simple
 1. Thou shalt not repeat code
 1. Thou shalt obey the Single Responsibility Principle

@@ -26,9 +26,9 @@
 |  9   | 16  | Mon Oct 27 | [API Gateway](../instruction/api-gateway/api-gateway.md)<br/> [Midterm Review](../instruction/midterm-review/midterm-review.md) | API Gateway Quiz |
 |      |     | Tue Oct 28 | | API Gateway Exercise |
 |      | 17  | Wed Oct 29 | [Intro to Milestone 3](../instruction/tweeter/milestone-3a.md) | |
-|      |     | Thu Oct 30 | | [Midterm Exam](../instruction/midterm/midterm.md) |
+|      |     | Thu Oct 30 | | [Midterm Exam](../instruction/midterm-review/midterm-review.md) |
 |  10  | 18  | Mon Nov 3  | [Facade and Proxy](../instruction/facade-proxy/facade-proxy.md) | Facade and Proxy Quiz<br/> Proxy Exercise |
-|      | 19  | Wed Nov 5  | [Cloud Data Store (DynamoDB)](../instruction/dynamodb/dynamodb.md) | Cloud Data Store (DynamoDB) Quiz<br/> DynamoDB Exercise Part 1  |
+|      | 19  | Wed Nov 5  | [Cloud Data Store (DynamoDB)](../instruction/cloud-datastore-dynamodb/cloud-datastore-dynamodb.md) | Cloud Data Store (DynamoDB) Quiz<br/> DynamoDB Exercise Part 1  |
 |  11  | 20  | Mon Nov 10 | [Abstracting External Dependencies, DAO/DTO (Pre-class preparation)](../instruction/abstracting-dependencies-dao/abstracting-dependencies-dao.md) | Abstracting External Dependencies Quiz, DAO/DTO<br/> DynamoDB Exercise Part 2 |
 |      | 21  | Wed Nov 12 | [Intro to Milestone 4A](../instruction/tweeter/milestone-4a.md) | |
 |      |     | Thu Nov 13 | | Milestone 3 AI Quiz<br/> Milestone 3 Documents AI Quiz<br/> [Milestone 3](../tweeter/milestone-3.md)<br/> [Milestone 2C Documents](../tweeter/milestone-3-docs.md) |
