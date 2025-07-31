@@ -10,9 +10,7 @@ Read the [“How it Works”](https://docs.aws.amazon.com/amazondynamodb/latest/
 
 Read the [“Getting Started with DynamoDB”](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStartedDynamoDB.html) section (all sub-sections except "First-time user resources").  This section covers basic concepts, and shows you how to perform DynamoDB operations using the web console, the CLI, and the AWS SDK.
 
-Read the following page that provides additional information about how to perform DynamoDB queries, including limiting and paginating query result sets.
-
-Review [this page](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Query.html) that explains how to write DyanamoDB queries.
+Read [this page](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Query.html) that provides additional information about how to perform DynamoDB queries, including limiting and paginating query result sets.
 
 From your reading and/or AI you should learn about the following:
 
