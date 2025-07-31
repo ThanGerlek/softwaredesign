@@ -38,7 +38,8 @@ Replace the TODOs with the appropriate information. You can get the ARNs by navi
 
 The following code is a script that will create/deploy to AWS or update each lambda referenced in your .server file. Create a file named uploadLambdas.sh at the root of your server module and add the following code:
 
-```#!/bin/bash
+```
+#!/bin/bash
 
 # use set -e to terminate the script on error
 set -e
