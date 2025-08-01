@@ -1,4 +1,4 @@
-# Project Milestone #3 Documents
+# Project Milestone 3: Documents
 
 As part of Milestone 3 you were required to create your Tweeter Web API in AWS API Gateway and provide documentation for each Web API endpoint. For this assignment you will submit your API documentation. As a reminder, here is the relevant part of the Milestone 3 specification:
 

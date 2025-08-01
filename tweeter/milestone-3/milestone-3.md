@@ -275,9 +275,7 @@ Performing debugging for this and future milestones will be more difficult, beca
 
 [Debugging Tips Article](./debugging-tips.md)
 
-**Debugging Tips Video:  You may need to turn up the video resolution to see the text.**
-
-<video aria-hidden="true" preload="metadata" playsinline=""><source src="./debugging-tips.mp4" type="video/mp4" data-vds=""></video>
+[Debugging Tips Video](https://youtu.be/ZW05JQ2C_Nc)
 
 Please make sure you've gone over and tried at least some of these tips before asking a TA for help. It makes their lives much easier when you've already found the source of the error, and often it will help you fix it on your own.
 
