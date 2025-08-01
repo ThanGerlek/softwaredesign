@@ -53,20 +53,21 @@ Write PostStatus component tests similar to the Login component tests demonstrat
 **Note:** The PostStatus component uses the userInfoHook and will expect it to return an object containing a current user and an auth token. This will return null when the component is rendered in your test, which will cause the component not to work correctly. To resolve this, you will need to mock the userInfoHook. We've been using ts-mockito for mocking in our tests and Jest as the test runner. However, the easiest way to mock a hook used in a component you are testing, is to use Jest. Here are two simple steps for mocking a hook with Jest:
 
 1. Above your describe function, use Jest to create a mock of the hook like this:
-
-        jest.mock("../../src/components/userInfo/UserInfoHooks", () => ({
-        ...jest.requireActual("../../src/components/userInfo/UserInfoHooks"),
-        __esModule: true,
-        useUserInfo: jest.fn(),
-        }));      
-      
+```
+jest.mock("../../src/components/userInfo/UserInfoHooks", () => ({
+  ...jest.requireActual("../../src/components/userInfo/UserInfoHooks"),
+  __esModule: true,
+  useUserInfo: jest.fn(),
+}));      
+```
 1. In a beforeAll function of your test, specify the values the hook returns like this:
+```
+(useUserInfo as jest.Mock).mockReturnValue({
+  currentUser: mockUserInstance,
+  authToken: mockAuthTokenInstance,
+});      
+```
 
-        (useUserInfo as jest.Mock).mockReturnValue({
-        currentUser: mockUserInstance,
-        authToken: mockAuthTokenInstance,
-        });      
-      
 ## Milestone Report
 
 Create and submit the document described in [Milestone 2 Part C: Documents](./milestone-2c-docs.md).

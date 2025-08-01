@@ -15,22 +15,26 @@ Before using the scripts you will need to do the following setup in AWS:
 
 Now create a .server file at the root of your server module with the following contents:
 
-    BUCKET='TODO: Enter your bucket name here'
-    LAMBDA_ROLE='TODO: Enter the ARN of your lambda role here'
-    EDIT_LAMBDALIST='
-    TODO: Enter a newline separated list of lambda names and corresponding lambda function names as follows:
-    tweeterGetFollowees | lambda/follow/GetFolloweesLambda.handler
-    '
-    LAMBDALAYER_ARN='TODO: Enter the ARN of your lambda layer here'
+```
+BUCKET='TODO: Enter your bucket name here'
+LAMBDA_ROLE='TODO: Enter the ARN of your lambda role here'
+EDIT_LAMBDALIST='
+TODO: Enter a newline separated list of lambda names and corresponding lambda function names as follows:
+tweeterGetFollowees | lambda/follow/GetFolloweesLambda.handler
+'
+LAMBDALAYER_ARN='TODO: Enter the ARN of your lambda layer here'
+```
 
 Replace the TODOs with the appropriate information. You can get the ARNs by navigating to the AWS resources you created above using the AWS console. Here's an example of what a .server file looks like with information for one lambda:
 
-    BUCKET='my_bucket'
-    LAMBDA_ROLE='arn:aws:iam::472934529729:role/tweeter-lambda'
-    EDIT_LAMBDALIST='
-    tweeterGetFollowees | lambda/follow/GetFolloweesLambda.handler
-    '
-    LAMBDALAYER_ARN='arn:aws:lambda:us-west-2:2875402752789:layer:tweeterLambdaLayer:1'
+```
+BUCKET='my_bucket'
+LAMBDA_ROLE='arn:aws:iam::472934529729:role/tweeter-lambda'
+EDIT_LAMBDALIST='
+tweeterGetFollowees | lambda/follow/GetFolloweesLambda.handler
+'
+LAMBDALAYER_ARN='arn:aws:lambda:us-west-2:2875402752789:layer:tweeterLambdaLayer:1'
+```
 
 **Note:** You will need to create a new version of your lambda layer, upload the updated lambda layer code, and update the LAMBDALAYER_ARN in the .server file each time you change a dependency of either the server module or the shared module.
 
@@ -95,14 +99,15 @@ done
 echo -e '\nLambda functions updated or created.'
 ```
 
-When you are ready to deploy or redeploy lambdas, create a zip file named dist.zip containing the lambda code as described in the lambda in-class exercise and execute the script with the following command: ./uploadLambdas.sh
+When you are ready to deploy or redeploy lambdas, create a zip file named dist.zip containing the lambda code as described in the lambda in-class exercise and execute the script with the following command: `./uploadLambdas.sh`
 
-Note: The zip file should be created by zipping the contents of your dist folder, not the dist folder (i.e. when creating the zip, highlight the contents of dist and zip that instead of zipping the dist folder).
+**Note:** The zip file should be created by zipping the contents of your dist folder, not the dist folder (i.e. when creating the zip, highlight the contents of dist and zip that instead of zipping the dist folder).
 
-If the script does not have executable permissions, set them using chmod +x uploadLambdas.sh on mac or Linux. On windows this might not be necessary.
+If the script does not have executable permissions, set them using `chmod +x uploadLambdas.sh` on Mac or Linux. On Windows this might not be necessary.
 
 Each deployed lambda will need to reference the lambda layer containing the node_modules folder dependencies. Create an updateLayers.sh script for updating the lambda layers with the following code:
 
+```
 # Use this file to update the lambda layers for each lambda.
 # First create the new lambda layer, or lambda layer version in aws by uploading the new lambda layer code.
 # Then copy the arn for the lambda layer from aws to the .server LAMBDALAYER_ARN variable.
@@ -136,8 +141,10 @@ for pid in "${pids[@]}"; do
 done
 
 echo Lambda layers updated for all lambdas in .source
+```
+
 Make sure this file has executable permissions as well.
 
 Before running this script, make sure you have created a lambda layer or new lambda layer version in AWS using the console and update the LAMBDALAYER_ARN variable in the .server file. This script associates the lambda layer with each lambda referenced in the .server file. You should run it each time you deploy a new lambda using the uploadLambda.sh script. You should also run it if you update the project dependencies and create a new lambda layer or lambda layer version.
 
-Run the script with this command:  ./updateLayer.sh.
+Run the script with this command: `./updateLayer.sh`.
