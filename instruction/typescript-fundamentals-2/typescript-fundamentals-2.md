@@ -15,3 +15,11 @@ Read the following from Programming Typescript (available from O'Reilly Books On
 - Chapter 5: Classes & Interfaces [stop at the "Polymorphism" section] [18 pages]
 - Chapter 8: Async Programming [only read the sections titled "Regaining Sanity with Promises" and "Async/Await"] [7 pages]
 
+## Quiz
+
+TypeScript Fundamentals Quiz
+
+## Lecture Slides/Notes/Files
+
+[TypeScript Classes and Interfaces - Slides](https://docs.google.com/presentation/d/1lzl_af-ubW8_T6zLJL3BEAMJSAh3i9ENrJDOXufyPso/edit?usp=sharing)
+

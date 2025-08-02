@@ -12,3 +12,13 @@ React Fundamentals
 
 React Router
 - Chapter 11: React Router [15 pages]
+
+## Quiz
+
+React Fundamentals / React Router Quiz
+
+## Lecture Slides/Notes/Files
+
+[React Fundamentals - Slides](https://docs.google.com/presentation/d/13lx_-7blsmNNIA5WxLbxArbL6la1LYcjf4heFA115Mc/edit?usp=sharing)
+
+[React Router - Slides](https://docs.google.com/presentation/d/19pOzFFL6kPWEHAkapt-FPQJTl_fxZUMY4adoXSiYDWc/edit?usp=sharing)
