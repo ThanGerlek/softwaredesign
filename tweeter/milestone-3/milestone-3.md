@@ -53,7 +53,7 @@ Since there are 14 lambdas in this milestone (and 16 in milestone 4B), manually 
 
 **Note:** If you know how to use a tool like Terraform, or AWS CloudFormation to automate the deployment of your lambdas, you are welcome to use them instead of the provided scripts. Instruction on these tools is outside the scope of this class.
 
-By the end of the next milestone (milestone 4A), your implementation is to meet the "user and session management" requirements in the [project overview](../tweeter.md).  For milestone 3 you may use hard coded credentials and a hard coded authentication token. However, your Web API design should include the ability to return an authentication token when a user logs in and pass an authentication token from client to server when Web API operations are called.
+By the end of the next milestone (milestone 4A), your implementation is to meet the "user and session management" requirements in the [project overview](../project-overview/tweeter.md).  For milestone 3 you may use hard coded credentials and a hard coded authentication token. However, your Web API design should include the ability to return an authentication token when a user logs in and pass an authentication token from client to server when Web API operations are called.
 
 Test each lambda from within the AWS console before connecting it to an API endpoint.
 

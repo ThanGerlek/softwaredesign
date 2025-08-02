@@ -1,6 +1,6 @@
 # Project Milestone 1: Tweeter Web UI Cleanup
 
-Before starting this milestone, you should review the description and domain model in the [course project overview](../tweeter.md).
+Before starting this milestone, you should review the description and domain model in the [course project overview](../project-overview/tweeter.md).
 
 Your assignment for this milestone is to cleanup the structure and design of the provided Tweeter UI by adding React components and React hooks. The assignment is divided into three parts.
 

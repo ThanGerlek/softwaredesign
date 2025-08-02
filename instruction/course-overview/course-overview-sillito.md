@@ -67,4 +67,4 @@ Create a twitter clone, with:
 - A React/Typescript front-end (this is a refactoring exercise)
 - An AWS based back-end (in Typescript)
 
-More details: [Course Project](../../tweeter/tweeter.md)
+More details: [Course Project](../../tweeter/project-overview/tweeter.md)
