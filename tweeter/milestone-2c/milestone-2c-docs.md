@@ -1,4 +1,4 @@
-# Project Milestone 2 Part C: Documents
+# Milestone 2 Part C: Documents
   
 ## Question 1
 
