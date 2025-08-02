@@ -253,16 +253,6 @@ This section describes the automated tests you are to write:
     **Note:** You do NOT have to write tests for the other outcomes (i.e., failing not because of an exception, failing because of an exception).
 1. The tests may throw a 'fetch not defined' error. fetch is called in the ClientCommunicator when contacting the server. To fix this, run npm i isomorphic-fetch, then in the top of the test file add 'import "isomorphic-fetch".
 
-## Milestone Report
-
-Create and submit the documents described in [Milestone 3: Documents](./milestone-3-docs.md).
-
-## Passoff
-
-- Pass off your project with a TA by the due date at the end of TA hours (you must be in the pass off queue 1 hour before the end of TA hours to guarantee pass off)
-- You can only pass off once.
-- If you pass off before the pass off day, you will get an additional 4% of extra credit in this assignment
-
 ## Debugging
 
 Performing debugging for this and future milestones will be more difficult, because the code runs in two different locations and has to communicate over the network. We've provided this article and video to help you figure out what's happening when something goes wrong.
@@ -272,6 +262,16 @@ Performing debugging for this and future milestones will be more difficult, beca
 [Debugging Tips Video](https://youtu.be/ZW05JQ2C_Nc)
 
 Please make sure you've gone over and tried at least some of these tips before asking a TA for help. It makes their lives much easier when you've already found the source of the error, and often it will help you fix it on your own.
+
+## Milestone Report
+
+Create and submit the documents described in [Milestone 3: Documents](./milestone-3-docs.md).
+
+## Passoff
+
+- Pass off your project with a TA by the due date at the end of TA hours (you must be in the pass off queue 1 hour before the end of TA hours to guarantee pass off)
+- You can only pass off once.
+- If you pass off before the pass off day, you will get an additional 4% of extra credit in this assignment
 
 ## Passoff Rubric
 
