@@ -37,7 +37,7 @@ Ensure the code returns some 400 [Bad Request] responses (for example, by throwi
 - Submit to Canvas a PDF file containing a UML sequence diagram demonstrating what happens when a user successfully sends a status, including both client and server side objects.
     - Keep in mind that the asynchronous nature shown in the 2C diagram will still be present.
     - Don't forget to include how the API Gateway bridges the gap between your Client and Server objects
-    - This diagram should start with the postStatus() call on your component, and end with a success callback to the same.
+    - This diagram should start with the submitPost() call on your PostStatus component, and end with a displayInfoMessage() call on the component's listener.
 
 ## Rubric
 

@@ -31,7 +31,7 @@
 |      | 19  | Wed Nov 5  | [Cloud Data Store (DynamoDB)](../instruction/cloud-datastore-dynamodb/cloud-datastore-dynamodb.md) | Cloud Data Store (DynamoDB) Quiz<br/> DynamoDB Exercise Part 1  |
 |  11  | 20  | Mon Nov 10 | [Abstracting External Dependencies, DAO/DTO (Pre-class preparation)](../instruction/abstracting-dependencies-dao/abstracting-dependencies-dao.md) | Abstracting External Dependencies Quiz, DAO/DTO<br/> DynamoDB Exercise Part 2 |
 |      | 21  | Wed Nov 12 | [Intro to Milestone 4A](../instruction/tweeter/milestone-4a.md) | |
-|      |     | Thu Nov 13 | | Milestone 3 AI Quiz<br/> Milestone 3 Documents AI Quiz<br/> [Milestone 3](../tweeter/milestone-3/milestone-3.md)<br/> [Milestone 2C Documents](../tweeter/milestone-3/milestone-3-docs.md) |
+|      |     | Thu Nov 13 | | Milestone 3 AI Quiz<br/> Milestone 3 Documents AI Quiz<br/> [Milestone 3](../tweeter/milestone-3/milestone-3.md)<br/> [Milestone 3 Documents](../tweeter/milestone-3/milestone-3-docs.md) |
 |  12  | 22  | Mon Nov 17 | [Dependency Inversion and Abstract Factory](../instruction/dependency-inversion-abstract-factory/dependency-inversion-abstract-factory.md) | Dependency Inversion and Abstract Factory Quiz<br/> Abstract Factory Exercise  |
 |      | 23  | Wed Nov 19 | [Command Pattern](../instruction/command/command.md) | Command Pattern Quiz |
 |      |     | Thu Nov 20 | | Command Pattern Exercise |

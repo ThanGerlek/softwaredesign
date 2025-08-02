@@ -85,6 +85,5 @@ Create and submit the document described in [Milestone 2 Part C: Documents](./mi
   - (4) Proper use of Jest, ts-mockito and React Testing Library
 
 Up to (10) points may be docked for incorrect functionality of the application
-The rubric below is just for TA convenience when grading. You should look at this one.
 
 ## [Milestone 2 FAQ](../milestone-2a/milestone-2-faq.md)

@@ -253,21 +253,15 @@ This section describes the automated tests you are to write:
     **Note:** You do NOT have to write tests for the other outcomes (i.e., failing not because of an exception, failing because of an exception).
 1. The tests may throw a 'fetch not defined' error. fetch is called in the ClientCommunicator when contacting the server. To fix this, run npm i isomorphic-fetch, then in the top of the test file add 'import "isomorphic-fetch".
 
+## Milestone Report
+
+Create and submit the documents described in [Milestone 3: Documents](./milestone-3-docs.md).
+
 ## Passoff
 
 - Pass off your project with a TA by the due date at the end of TA hours (you must be in the pass off queue 1 hour before the end of TA hours to guarantee pass off)
 - You can only pass off once.
 - If you pass off before the pass off day, you will get an additional 4% of extra credit in this assignment
-
-## Submission
-
-- All of your documents will be submitted to the assignment: **Project Milestone 3: Documents**
-- Submit to Canvas a zip file containing your project in its current form. If your project is too big to upload to Canvas, you are probably including files that shouldn't be there. Only include files that you would version.
-- Submit to Canvas an exported YAML or JSON swagger file that describes your API.  To do this export, click on your stage, then the export tab. You will see the option to "export as swagger".
-- Submit to Canvas a PDF file containing a UML sequence diagram demonstrating what happens when a user successfully sends a status, including both client and server side objects.
-    - Keep in mind that the asynchronous nature shown in the 2C diagram will still be present.
-    - Don't forget to include how the API Gateway bridges the gap between your Client and Server objects
-    - This diagram should start with the submitPost() call on your PostStatus component, and end with a displayInfoMessage() call on the component's listener.
 
 ## Debugging
 
@@ -281,7 +275,7 @@ Please make sure you've gone over and tried at least some of these tips before a
 
 ## Passoff Rubric
 
-- [20 points] There are 14 features in you application that should each now call the back-end.
+- [20 points] There are 14 features in your application that should each now call the back-end.
     - 10 points for having correct functionality with dummy data
     - 10 points for each feature connecting to the back end
 - [20 points] You should have the correct layering in your networking and back-end architecture.
