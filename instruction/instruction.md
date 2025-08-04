@@ -1,6 +1,6 @@
 # Instructional Topics
 
-The course content is divided into multiple topics that you should strive to master. The instruction for a topic includes pre-class preparation, lecture notes/slides/files/videos, and hands-on exercises.
+The course content is divided into multiple topics that you should strive to master. The instruction for a topic includes pre-class preparation, lecture slides/notes/files, and hands-on exercises.
 
 Below topics are organized into related groups. To see a chronological listing of topics, see the [Course Schedule](../schedule/schedule-fall-2025.md)
 

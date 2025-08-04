@@ -11,3 +11,15 @@ Read the following:
 - [Wikipedia "Mock Object" article](https://en.wikipedia.org/wiki/Mock_object)
 
 - [Ts-mockito tutorial](https://github.com/NagRock/ts-mockito)
+
+## Quiz
+
+Unit Testing with Mocks and Spies Quiz
+
+## Exercise
+
+[Unit Testing with Mocks and Spies Exercise](./unit-testing-mocking-exercise.md)
+
+## Lecture Slides/Notes/Files
+
+[Unit Testing with Mocks and Spies - Slides](https://drive.google.com/drive/folders/17BF8mxZ1m8J0VGBi0U-9EA8yp9azvX7M?usp=sharing)

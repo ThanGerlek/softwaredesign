@@ -22,4 +22,3 @@ TypeScript Fundamentals Quiz
 ## Lecture Slides/Notes/Files
 
 [TypeScript Classes and Interfaces - Slides](https://docs.google.com/presentation/d/1lzl_af-ubW8_T6zLJL3BEAMJSAh3i9ENrJDOXufyPso/edit?usp=sharing)
-

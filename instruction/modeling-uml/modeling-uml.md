@@ -15,3 +15,17 @@ For more information about Class Diagrams, optionally you can read:
  
 
 Don't for get to join the class Slack workspace. Find the Slack link [HERE](../../README.md).
+
+## Quiz
+
+Modeling and UML Quiz
+
+## Exercise
+
+[UML Sequence Diagram Exercise](./uml-sequence-diagram-exercise.md)
+
+## Lecture Slides/Notes/Files
+
+[UML Class Diagrams - Slides](https://docs.google.com/presentation/d/1FQBFRrd0z07_yPDfjrGT_HD3C_p1uASdIZWyRa4Vefo/edit?usp=sharing)
+
+[UML Sequence Diagram Return Value Styles - Notes](https://drive.google.com/file/d/16QJ60qM_aZ1j6kdPb2ehrAYHGVQje--o/view?usp=sharing)
