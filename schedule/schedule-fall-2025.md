@@ -22,7 +22,7 @@
 |      |     | Thu Oct 16 | | Milestone 2B AI Quiz<br/> [Milestone 2B](../tweeter/milestone-2b/milestone-2b.md) |
 |  8   | 14  | Mon Oct 20 | [Intro to Cloud and AWS](../instruction/cloud-aws-intro/cloud-aws-intro.md) | Intro to Cloud and AWS Quiz<br/> AWS S3 Exercise |
 |      |     | Tue Oct 21 | | Milestone 2C AI Quiz<br/> Milestone 2C Documents AI Quiz<br/> [Milestone 2C](../tweeter/milestone-2c/milestone-2c.md)<br/> [Milestone 2C Documents](../tweeter/milestone-2c/milestone-2c-docs.md) |
-|      | 15   | Wed Oct 22 | [Serverless, Lambda, Security (IAM)](../instruction/serverless-lambda-iam.md) | Serverless, Lambda, Security (IAM) Quiz<br/> AWS Lambda Exercise |
+|      | 15   | Wed Oct 22 | [Serverless, Lambda, Security (IAM)](../instruction/serverless-lambda-iam/serverless-lambda-iam.md) | Serverless, Lambda, Security (IAM) Quiz<br/> AWS Lambda Exercise |
 |  9   | 16  | Mon Oct 27 | [API Gateway](../instruction/api-gateway/api-gateway.md)<br/> [Midterm Review](../instruction/midterm-review/midterm-review.md) | API Gateway Quiz |
 |      |     | Tue Oct 28 | | API Gateway Exercise |
 |      | 17  | Wed Oct 29 | [Intro to Milestone 3](../instruction/tweeter/milestone-3a.md) | |

@@ -49,7 +49,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
  ## Exercise
 
- API Gateway Exercise
+ [API Gateway Exercise](./api-gateway-exercise.md)
 
  ## Lecture Slides/Notes/Files
 
