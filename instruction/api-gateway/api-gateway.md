@@ -6,8 +6,6 @@ Assumption: You have completed the “Lambda / IAM” exercise.
 
 AWS API Gateway lets you implement web APIs for your server-side code.  In this class we will use API Gateway to allow our Lambda functions to be called over the web via HTTP.  You may recall that in CS 240 we wrote a Java server that implemented web APIs.  In this class, rather than writing our own server, we will use Lambda to implement our backend functionality, and use API Gateway to make our Lambda services callable through a web API.
 
- 
-
 Use the following resources and/or AI to learn the following:
 
 - What is AWS API Gateway?
@@ -45,4 +43,14 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
- 
+ ## Quiz
+
+ API Gateway Quiz
+
+ ## Exercise
+
+ API Gateway Exercise
+
+ ## Lecture Slides/Notes/Files
+
+[API Gateway - Slides](https://docs.google.com/presentation/d/1YkFMAswitpwDzP6H7PZeFvjWQMLCdEQb9miM4_VKhd4/edit?usp=sharing)
