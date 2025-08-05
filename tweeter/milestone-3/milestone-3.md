@@ -263,6 +263,11 @@ Performing debugging for this and future milestones will be more difficult, beca
 
 Please make sure you've gone over and tried at least some of these tips before asking a TA for help. It makes their lives much easier when you've already found the source of the error, and often it will help you fix it on your own.
 
+## Additional Resources
+
+- [M3 API Endpoints Design Suggestions](./api-design-suggestions.md)
+- [Error Handling in API Gateway](https://aws.amazon.com/blogs/compute/error-handling-patterns-in-amazon-api-gateway-and-aws-lambda/)
+
 ## Milestone Report
 
 Create and submit the documents described in [Milestone 3: Documents](./milestone-3-docs.md).

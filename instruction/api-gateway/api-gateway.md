@@ -54,3 +54,5 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
  ## Lecture Slides/Notes/Files
 
 [API Gateway - Slides](https://docs.google.com/presentation/d/1YkFMAswitpwDzP6H7PZeFvjWQMLCdEQb9miM4_VKhd4/edit?usp=sharing)
+
+[HTTP Client Access - Slides](https://docs.google.com/presentation/d/1KDbl2Q1mgEi3gz0-OPshw_FUfjZ-NJOMKJ8Nx5VO9tk/edit?usp=sharing)
