@@ -4,7 +4,7 @@
 
 None
 
-## Lecture Notes/Slides
+## Lecture Slides/Notes/Files
 
 - [Course Overview - Rodham]()
 - [Course Overview - Sillito](course-overview-sillito.md)
