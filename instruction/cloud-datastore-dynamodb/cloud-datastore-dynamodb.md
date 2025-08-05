@@ -32,3 +32,15 @@ From your reading and/or AI you should learn about the following:
 - How do you limit the number of items in a query result set?
 - What does it mean to “paginate” query results?
 - How do you paginate query results in DynamoDB?
+
+## Quiz
+
+Cloud Data Store (DynamoDB) Quiz
+
+## Exercise
+
+[DynamoDB Exercise Part 1](dynamodb-exercise-1.md)
+
+## Lecture Slides/Notes/Files
+
+[DynamoDB - Slides](https://docs.google.com/presentation/d/1QqtWaNEVIyvOOg4KKSuwt4ebxJRJjHrn/)

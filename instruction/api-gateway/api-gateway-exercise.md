@@ -1,6 +1,6 @@
 # API Gateway Exercise
 
-In this exercise we will:
+In this exercise you will:
 
 1. Create a web API for the Lambda function to send email in the Lambda/IAM exercise
 1. Learn to pass inputs to the Lambda function through the HTTP request body

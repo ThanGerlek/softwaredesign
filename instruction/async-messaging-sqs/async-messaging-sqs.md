@@ -10,4 +10,21 @@ Event Driven/Asynchronous Messaging and Queues
 - Do:
     - Review [SQS documentation](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html).
     - Follow [these steps](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-getting-started.html) to create a SQS message queue (that you will use in the SQS exercise in class).
-    
+
+## Quiz
+
+Asynchronous Messaging and SQS Quiz
+
+## Exercise
+
+[SQS Exercise](./sqs-exercise.md)
+
+## Lecture Slides/Notes/Files
+
+- Dr. Rodham
+    - [Asynchronous Messaging - Slides](https://docs.google.com/presentation/d/1d5XV2hR8mstH9NaQLDfD9Fqbvpzb2lDr/)
+- Dr. Sillito
+    - [Short SQS introduction video](https://youtu.be/B-kFKC6X8_o)
+- Dr. Wilkerson
+    - [Movie Ticket Line](./MovieTicketLine.jpg)
+    - [Video: Asynchronous Messaging with SQS](https://youtu.be/rC6DcMBWHmU)
