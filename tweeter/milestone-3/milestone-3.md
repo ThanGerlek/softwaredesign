@@ -49,15 +49,13 @@ Your backend (tweeter-server module) should have the following code layers:
 
 **Note:** In the next milestone, you will add a layer of DAO classes for accessing a database.
 
-Since there are 14 lambdas in this milestone (and 16 in milestone 4B), manually deploying them each time you create or update one will become tedious. We recommend using scripts to automate most or all of this process. A set of scripts you can use for this purpose can be found [here](./server-scripts.md). You are welcome to use them "as is" or modify them to suit your needs.
-
-**Note:** If you know how to use a tool like Terraform, or AWS CloudFormation to automate the deployment of your lambdas, you are welcome to use them instead of the provided scripts. Instruction on these tools is outside the scope of this class.
-
 By the end of the next milestone (milestone 4A), your implementation is to meet the "user and session management" requirements in the [project overview](../project-overview/tweeter.md).  For milestone 3 you may use hard coded credentials and a hard coded authentication token. However, your Web API design should include the ability to return an authentication token when a user logs in and pass an authentication token from client to server when Web API operations are called.
 
 Test each lambda from within the AWS console before connecting it to an API endpoint.
 
 [This video](https://youtu.be/jBSdQYGKCVk) demonstrates how to create, deploy, and test one of your lambdas.
+
+Since there are 14 lambdas in this milestone (and 16 in milestone 4B), manually deploying them each time you create or update one will become tedious. In general, manually creating and configuring resources through the AWS web console is tedious and error-prone. Therefore, we recommend that you automate these tasks as described in [Automating AWS Resource Management](./automating-aws-resource-management.md). Doing so will be educational and save you time.
 
 ## Design and Implement Your Web API
 
