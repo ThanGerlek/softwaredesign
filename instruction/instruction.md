@@ -19,13 +19,13 @@ Below topics are organized into related groups. To see a chronological listing o
 - ☑ [Intro to Image Editor](./image-editor/image-editor.md)
 
 ## Tweeter Project
-- ☑ [Intro to Tweeter Milestone 1](./tweeter/milestone-1.md)
-- ☑ [Intro to Tweeter Milestone 2A](./tweeter/milestone-2a.md)
-- ☑ [Intro to Tweeter Milestone 2B](./tweeter/milestone-2b.md)
-- ☑ [Intro to Tweeter Milestone 2C](./tweeter/milestone-2c.md)
-- ☑ [Intro to Tweeter Milestone 3](./tweeter/milestone-3.md)
-- ☑ [Intro to Tweeter Milestone 4A](./tweeter/milestone-4a.md)
-- ☑ [Intro to Tweeter Milestone 4B](./tweeter/milestone-4b.md)
+- ☑ [Intro to Tweeter Milestone 1](./tweeter/milestone-1/milestone-1.md)
+- ☑ [Intro to Tweeter Milestone 2A](./tweeter/milestone-2a/milestone-2a.md)
+- ☑ [Intro to Tweeter Milestone 2B](./tweeter/milestone-2b/milestone-2b.md)
+- ☑ [Intro to Tweeter Milestone 2C](./tweeter/milestone-2c/milestone-2c.md)
+- ☑ [Intro to Tweeter Milestone 3](./tweeter/milestone-3/milestone-3.md)
+- ☑ [Intro to Tweeter Milestone 4A](./tweeter/milestone-4a/milestone-4a.md)
+- ☑ [Intro to Tweeter Milestone 4B](./tweeter/milestone-4b/milestone-4b.md)
 
 ## TypeScript and React
 
