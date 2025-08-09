@@ -12,7 +12,7 @@ Code Reuse / Open-Closed Principle / Template Method Pattern Quiz
 
 ## Exercise
 
-[Template Method Pattern Exercise](./template-method-pattern-exercise.md)
+[Template Method Pattern Exercise](./template-method-exercise.md)
 
 ## Lecture Slides/Notes/Files
 
