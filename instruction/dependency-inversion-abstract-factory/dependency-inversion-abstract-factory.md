@@ -1,4 +1,4 @@
-# Designing for Testability, Dependency Inversion, Abstract Factory
+# Dependency Inversion and Abstract Factory
 
 ## Pre-class Preparation
   

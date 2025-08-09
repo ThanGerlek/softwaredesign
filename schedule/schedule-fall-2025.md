@@ -13,7 +13,7 @@
 |      |  7  | Wed Sep 24 |[Patterns Intro / Observer](../instruction/patterns-observer/patterns-observer.md) | Patterns Intro / Observer Quiz<br/> [Observer Exercise](../instruction/patterns-observer/observer-exercise.md) |
 |      |     | Thu Sep 25 | | Milestone 1 AI Quiz<br/> [Milestone 1](../tweeter/milestone-1/milestone-1.md) |
 |   5  |  8  | Mon Sep 29 | [User Interface Architecture](../instruction/ui-architecture/ui-architecture.md)<br/> [Intro to Milestone 2A](../instruction/tweeter/milestone-2a/milestone-2a.md) | User Interface Architecture Quiz |
-|      |  9  | Wed Oct 1 | [No Class - Watch Videos in the M2A Assignment Specification and Start on the Assignment](../tweeter/milestone-2a.md)  | |
+|      |  9  | Wed Oct 1 | No Class - Watch Videos in the [M2A Assignment Specification](../tweeter/milestone-2a/milestone-2a.md) and Start on the Assignment | |
 |  6   | 10  | Mon Oct 6 | [Code Reuse / Open-Closed Principle / Template Method](../instruction/code-reuse-open-closed-template-method/code-reuse-open-closed-template-method.md) | Code Reuse / Open-Closed Principle / Template Method Quiz<br/> [Template Method Exercise](../instruction/code-reuse-open-closed-template-method/template-method-pattern-exercise.md) |
 |      | 11  | Wed Oct 8 | [Generic Programming](../instruction/generic-programming/generic-programming.md)<br /> [Intro to Milestone 2B](../instruction/tweeter/milestone-2b/milestone-2b.md) | Generic Programming Quiz<br/> [Generic Programming Exercise](../instruction/generic-programming/generics-exercise.md) |
 |      |     | Fri Oct 10 | | Milestone 2A AI Quiz<br/> [Milestone 2A](../tweeter/milestone-2a/milestone-2a.md) |
@@ -26,9 +26,9 @@
 |  9   | 16  | Mon Oct 27 | [API Gateway](../instruction/api-gateway/api-gateway.md)<br/> [Midterm Review](../instruction/midterm-review/midterm-review.md) | API Gateway Quiz |
 |      |     | Tue Oct 28 | | [API Gateway Exercise](../instruction/api-gateway/api-gateway-exercise.md) |
 |      | 17  | Wed Oct 29 | [Intro to Milestone 3](../instruction/tweeter/milestone-3/milestone-3.md) | |
-|      |     | Sat Nov 1 | | [Midterm Exam](../instruction/midterm-review/midterm-review.md) |
+|      |     | Sat Nov 1 | | [Midterm Exam](../instruction/midterm-exam/midterm-exam.md) |
 |  10  | 18  | Mon Nov 3  | [Facade and Proxy](../instruction/facade-proxy/facade-proxy.md) | Facade and Proxy Quiz<br/> [Proxy Exercise](../instruction/facade-proxy/proxy-exercise.md) |
-|      | 19  | Wed Nov 5  | [Cloud Data Store (DynamoDB)](../instruction/cloud-datastore-dynamodb/cloud-datastore-dynamodb.md) | Cloud Data Store (DynamoDB) Quiz<br/> [DynamoDB Exercise Part 1](../instruction/cloud-datastore-dynamodb/dynamodb-exercise-1.md)  |
+|      | 19  | Wed Nov 5  | [Cloud Data Store (DynamoDB)](../instruction/cloud-datastore-dynamodb/cloud-datastore-dynamodb.md) | Cloud Data Store (DynamoDB) Quiz<br/> [DynamoDB Exercise Part 1](../instruction/cloud-datastore-dynamodb/dynamodb-exercise-1.md) |
 |  11  | 20  | Mon Nov 10 | [Abstracting External Dependencies and DAO/DTO (Pre-class preparation)](../instruction/abstracting-dependencies-dao/abstracting-dependencies-dao.md) | Abstracting External Dependencies and DAO/DTO Quiz<br/> [DynamoDB Exercise Part 2](../instruction/abstracting-dependencies-dao/dynamodb-exercise-2.md) |
 |      | 21  | Wed Nov 12 | [Intro to Milestone 4A](../instruction/tweeter/milestone-4a/milestone-4a.md) | |
 |      |     | Thu Nov 13 | | Milestone 3 AI Quiz<br/> Milestone 3 Documents AI Quiz<br/> [Milestone 3](../tweeter/milestone-3/milestone-3.md)<br/> [Milestone 3 Documents](../tweeter/milestone-3/milestone-3-docs.md) |
@@ -43,4 +43,4 @@
 |  15  | 27  | Mon Dec 8  | [Final Review](../instruction/final-review/final-review.md)  | |
 |      | 28  | Wed Dec 10 | No Class - Pass off Milestone 4 | Milestone 4B AI Quiz<br/> [Milestone 4B](../tweeter/milestone-4b/milestone-4b.md) |
 |      |     | Thu Dec 11 | | [Course Evaluation](../instruction/course-evaluation/course-evaluation.md) |
-|  16  |     | Tue Dec 16  | | [Final Exam](../instruction/final-review/final-review.md) |
+|  16  |     | Tue Dec 16  | | [Final Exam](../instruction/final-exam/final-exam.md) |
