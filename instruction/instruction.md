@@ -43,7 +43,7 @@ Below topics are organized into related groups. To see a chronological listing o
 - [Generic Programming](./generic-programming/generic-programming.md)
 - [Design Principles](./design-principles/design-principles.md)
 - [Unit Testing with Mocks and Spies](./unit-testing-mocking/unit-testing-mocking.md)
-- [Abstracting External Dependencies](./abstracting-dependencies-dao/abstracting-dependencies-dao.md)
+- [Abstracting Dependencies](./abstracting-dependencies-adapter-dao/abstracting-dependencies-adapter-dao.md)
 - [Dependency Inversion](./dependency-inversion-abstract-factory/dependency-inversion-abstract-factory.md)
 - [Inheritance vs. Delegation](./inheritance-vs-delegation-strategy/inheritance-vs-delegation-strategy.md)
 
@@ -55,11 +55,10 @@ Below topics are organized into related groups. To see a chronological listing o
 - [Template Method Pattern](./code-reuse-open-closed-template-method/code-reuse-open-closed-template-method.md)
 - [Facade Pattern](./facade-proxy/facade-proxy.md)
 - [Proxy Pattern](./facade-proxy/facade-proxy.md)
-- [DAO/DTO Pattern](./abstracting-dependencies-dao/abstracting-dependencies-dao.md)
+- [DAO/DTO Pattern](./abstracting-dependencies-adapter-dao/abstracting-dependencies-adapter-dao.md)
 - [Abstract Factory Pattern](./dependency-inversion-abstract-factory/dependency-inversion-abstract-factory.md)
 - [Command Pattern](./command/command.md)
-- [Adapter Pattern](./adapter-decorator/adapter-decorator.md)
-- [Decorator Pattern](./adapter-decorator/adapter-decorator.md)
+- [Adapter Pattern](./abstracting-dependencies-adapter-dao/abstracting-dependencies-adapter-dao.md)
 - [Strategy Pattern](./inheritance-vs-delegation-strategy/inheritance-vs-delegation-strategy.md)
 
 ## Cloud Computing / AWS
