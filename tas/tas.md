@@ -11,22 +11,22 @@ Normal Hours
 
 **_Bold and italic means unavailable._**
 
-|                  |         Monday         |       Tuesday        |        Wednesday        |     Thursday     |    Friday     |
-| :--------------: | :--------------------: | :------------------: | :---------------------: | :--------------: | :-----------: |
-|  9:00 - 9:59 AM  |          Than          |        Katie         |       Than, Katie       |      Katie       |  Than, Katie  |
-| 10:00 - 10:59 AM |      Than, Alden       |    Katie, Keaton     |      Katie, Alden       |   Katie, Alden   |     Katie     |
-| 11:00 - 11:59 AM |         Alden          |   **_Devotional_**   |          Alden          |      Alden       |    Keaton     |
-| 12:00 - 12:59 PM |      Than, Daniel      |    Keaton, Alden     |         Daniel          | **_TA Meeting_** |    Keaton     |
-|  1:00 - 1:59 PM  |     _Than, Daniel_     |     Than, Keaton     |  _Than, Daniel, Josh_   |      Keaton      |    Keaton     |
-|  2:00 - 2:59 PM  |    _Alden, Josh\*_     |    Daniel, Keaton    |      _Alden, Josh_      |      Keaton      |    Keaton     |
-|  3:00 - 3:59 PM  | _Katie (3:20), Daniel_ | Katie (3:20), Daniel | _Daniel, Keaton, Josh_  |  Katie, Keaton   |     Katie     |
-|  4:00 - 4:59 PM  |    _Katie, Daniel_     |    Katie, Daniel     | _Katie, Daniel, Keaton_ |  Katie, Daniel   | Katie, Daniel |
-|  5:00 - 5:59 PM  |         Daniel         |        Daniel        |         Daniel          |      Daniel      |    Daniel     |
-|  6:00 - 6:59 PM  |         Keaton         |         Than         |          Than           |       Than       |    Daniel     |
+|                  |        Monday         |       Tuesday        |          Wednesday          |       Thursday       |    Friday     |
+| :--------------: | :-------------------: | :------------------: | :-------------------------: | :------------------: | :-----------: |
+|  9:00 - 9:59 AM  |         Than          |        Katie         |         Than, Katie         |        Katie         |     Katie     |
+| 10:00 - 10:59 AM |         Alden         |    Katie, Keaton     |        Katie, Alden         |     Katie, Alden     |     Katie     |
+| 11:00 - 11:59 AM |         Alden         |   **_Devotional_**   |            Alden            |        Alden         |    Keaton     |
+| 12:00 - 12:59 PM |     Than, Daniel      |    Keaton, Alden     |           Daniel            |   **_TA Meeting_**   |    Keaton     |
+|  1:00 - 1:59 PM  |    _Than, Daniel_     |     Than, Keaton     |    _Than, Daniel, Josh_     |        Keaton        |    Keaton     |
+|  2:00 - 2:59 PM  | _Than, Alden, Josh\*_ |    Daniel, Keaton    | _Than, Alden, Josh, Keaton_ |        Keaton        |    Keaton     |
+|  3:00 - 3:59 PM  |    _Katie, Daniel_    | Katie (3:20), Daniel |   _Daniel, Keaton, Josh_    | Katie (3:20), Keaton |     Katie     |
+|  4:00 - 4:59 PM  |    _Katie, Daniel_    |    Katie, Daniel     |   _Katie, Daniel, Keaton_   |    Katie, Daniel     | Katie, Daniel |
+|  5:00 - 5:59 PM  |        Daniel         |        Daniel        |           Daniel            |        Daniel        |    Daniel     |
+|  6:00 - 6:59 PM  |  Keaton (Zoom only)   |         Than         |            Than             |         Than         |    Daniel     |
 
-- May not be available, depending on the week
+- \*May not be available, depending on the week
 
-**Note: There is a 3 visit limit for TA help per day.**
+**Note: There is a 3 visit limit for TA help per day.** This is to encourage you to do as much as you can on your own before coming for help.
 
 ## For help during class hours
 
@@ -45,10 +45,9 @@ Use the #exercises and #milestone channels on our Slack. (The link to join Slack
 ###
 
 [!WARNING]
-
 > On pass off weeks, especially towards the deadline, if a TA isn't in their personal zoom room they may be busy with passing students off and won't be available to help with individual questions.
 
-TA Zoom Links:
+TA Zoom Links (WIP):
 
 - Than - [Than's Zoom Link](https://byu.zoom.us/my/ThanGerlek)
 
