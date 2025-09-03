@@ -7,7 +7,7 @@ Check the #Announcements channel on Slack for corrections.
 
 Normal Hours
 
-**Bold means class hours.** Some or all TAs may be in class. Sometimes, someone will still be in the lab, but this is not guaranteed.
+_Italic means class hours._ Some or all TAs may be in class. Sometimes, someone will still be in the lab, but this is not guaranteed.
 
 **_Bold and italic means unavailable._**
 
