@@ -44,7 +44,7 @@ Use the #exercises and #milestone channels on our Slack. (The link to join Slack
 
 ###
 
-[!WARNING]
+> [!WARNING]
 > On pass off weeks, especially towards the deadline, if a TA isn't in their personal zoom room they may be busy with passing students off and won't be available to help with individual questions.
 
 TA Zoom Links (WIP):
