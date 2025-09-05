@@ -17,7 +17,7 @@ _Italic means class hours._ Some or all TAs may be in class. Sometimes, someone 
 | 10:00 - 10:59 AM |       Alden        |    Katie, Keaton     |     Katie, Alden      |     Katie, Alden     |     Katie      |
 | 11:00 - 11:59 AM |       Alden        |   **_Devotional_**   |         Alden         |        Alden         |     Keaton     |
 | 12:00 - 12:59 PM |    Than, Daniel    |    Keaton, Alden     |        Daniel         |   **_TA Meeting_**   | Daniel, Keaton |
-|  1:00 - 1:59 PM  |   _Than, Daniel_   |     Than, Keaton     |    _Than, Daniel_     |        Keaton        | Daniel, Keaton |
+|  1:00 - 1:59 PM  |   _Than, Daniel_   |     Than, Keaton     |    _Than, Daniel_     |    Daniel, Keaton    | Daniel, Keaton |
 |  2:00 - 2:59 PM  |   _Than, Alden_    |        Daniel        | _Than, Alden, Keaton_ |    Daniel, Keaton    |     Keaton     |
 |  3:00 - 3:59 PM  |      _Katie_       | Katie (3:20), Daniel |       _Keaton_        | Katie (3:20), Keaton |     Katie      |
 |  4:00 - 4:59 PM  |      _Katie_       |    Katie, Daniel     |    _Katie, Keaton_    |    Katie, Daniel     | Katie, Daniel  |
