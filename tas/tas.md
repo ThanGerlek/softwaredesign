@@ -36,7 +36,7 @@ Stop by the TA Lab in TMCB 1160. If it's very busy (such as on a pass off day), 
 
 ## For help on Slack
 
-Use the #exercises and #milestone channels on our Slack. (The link to join Slack is on [this page](https://github.com/BYU-CS-340/softwaredesign/blob/main/README.md).)
+We have a #help-queue channel (You might need to search and add it) if you want help from TAs. You can also ask questions in the #exercises and #milestone channels on our Slack. (The link to join Slack is on [this page](https://github.com/BYU-CS-340/softwaredesign/blob/main/README.md).)
 
 ## For help on Zoom
 
