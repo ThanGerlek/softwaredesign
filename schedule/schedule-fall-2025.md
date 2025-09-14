@@ -6,9 +6,9 @@
 |      |     | Thu Sep 4  | | Javascript Fundamentals Quiz |
 |  2   |  2  | Mon Sep 8  | [TypeScript Fundamentals 2](../instruction/typescript-fundamentals-2/typescript-fundamentals-2.md) | TypeScript Fundamentals Quiz |
 |      |  3  | Wed Sep 10 | [React Fundamentals / React Router](../instruction/react-fundamentals-router/react-fundamentals-router.md) | React Fundamentals / React Router Quiz |
-|  3  |   4  | Mon Sep 15 | [React Hooks / React State](../instruction/react-hooks-state/react-hooks-state.md) | React Hooks / React State Quiz<br/> [Image Editor - Convert to TypeScript](../image-editor/image-editor.md) |
-|     |   5  | Wed Sep 17 | [Modeling / UML](../instruction/modeling-uml/modeling-uml.md)<br/> [Intro to Milestone 1](../instruction/tweeter/milestone-1/milestone-1.md) | Modeling / UML Quiz |
-|      |     | Thu Sep 18  | | [UML Sequence Diagram Exercise](../instruction/modeling-uml/uml-sequence-diagram-exercise.md) |
+|  3  |   4  | Mon Sep 15 | [React Hooks / React State](../instruction/react-hooks-state/react-hooks-state.md)<br/> [Intro to Milestone 1](../instruction/tweeter/milestone-1/milestone-1.md) | React Hooks / React State Quiz<br/> [Image Editor - Convert to TypeScript](../image-editor/image-editor.md) |
+|     |   5  | Wed Sep 17 | [Modeling / UML](../instruction/modeling-uml/modeling-uml.md) | Modeling / UML Quiz |
+|     |      | Thu Sep 18  | | [UML Sequence Diagram Exercise](../instruction/modeling-uml/uml-sequence-diagram-exercise.md) |
 |  4  |   6  | Mon Sep 22 | [Software Architecture](../instruction/software-architecture/software-architecture.md) | Software Architecture Quiz |
 |      |  7  | Wed Sep 24 |[Patterns Intro / Observer](../instruction/patterns-observer/patterns-observer.md) | Patterns Intro / Observer Quiz<br/> [Observer Exercise](../instruction/patterns-observer/observer-exercise.md) |
 |      |     | Thu Sep 25 | | Milestone 1 AI Quiz<br/> [Milestone 1](../tweeter/milestone-1/milestone-1.md) |
