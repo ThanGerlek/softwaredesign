@@ -30,7 +30,7 @@ _Italic means class hours._ Some or all TAs may be in class. Sometimes, someone 
 |  4:00 - 4:59 PM  |      _Katie_       |    Katie, Daniel     |    _Katie, Keaton_    |    Katie, Daniel     | Katie, Daniel  |
 |  5:00 - 5:59 PM  |       Daniel       |        Daniel        |        Daniel         |        Daniel        |     Daniel     |
 
-## For help during class hours
+### For help during class hours
 
 During class hours, one TA will sometimes be available in the lab, but this is not guranteed. In-class TAs' attention is primarily on the students in class. Pass offs are not guaranteed by in class TA's. If you need help during another section's class time and no one is in the lab, use the #exercies & #milestone channels on our Slack. (The link to join Slack is on [this page](https://github.com/BYU-CS-340/softwaredesign/blob/main/README.md).)
 
