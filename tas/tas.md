@@ -19,10 +19,10 @@ _Italic means class hours._ Some or all TAs may be in class. Sometimes, someone 
 | 12:00 - 12:59 PM |    Than, Daniel    |    Keaton, Alden     |        Daniel         |   **_TA Meeting_**   | Daniel, Keaton |
 |  1:00 - 1:59 PM  |   _Than, Daniel_   |     Than, Keaton     |    _Than, Daniel_     |    Daniel, Keaton    | Daniel, Keaton |
 |  2:00 - 2:59 PM  |   _Than, Alden_    |        Daniel        | _Than, Alden, Keaton_ |    Daniel, Keaton    |     Keaton     |
-|  3:00 - 3:59 PM  |      _Katie_       | Katie (3:20), Daniel |       _Keaton_        | Katie (3:20), Keaton |     Katie      |
+|  3:00 - 3:59 PM  |      _Katie_       | Katie (3:20), Daniel |       _Keaton_        | Katie (3:20), Keaton | Katie, Daniel  |
 |  4:00 - 4:59 PM  |      _Katie_       |    Katie, Daniel     |    _Katie, Keaton_    |    Katie, Daniel     | Katie, Daniel  |
 |  5:00 - 5:59 PM  |       Daniel       |        Daniel        |        Daniel         |        Daniel        |     Daniel     |
-|  6:00 - 6:59 PM  | Keaton (Zoom only) |         Than         |         Than          |         Than         |     Daniel     |
+|  6:00 - 6:59 PM  | Keaton (Zoom only) |     **_Closed_**     |     **_Closed_**      |     **_Closed_**     |  **_Closed_**  |
 
 **Note: There is a 3 visit limit for TA help per day.** This is to encourage you to do as much as you can on your own before coming for help.
 
