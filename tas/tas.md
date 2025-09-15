@@ -8,10 +8,11 @@ Our preferred contact method is via Slack (the join link is on [this page](https
 
 ## Getting help
 
-TAs are available on Zoom unless otherwise stated. (Send them a Slack message if you're unsure.)
 Check the #Announcements channel on Slack for corrections.
 
-Normal Hours
+**Note: There is a 3 visit limit for TA help per day.** This is to encourage you to do as much as you can on your own before coming for help.
+
+### Normal Hours
 
 _Italic means class hours._ Some or all TAs may be in class. Sometimes, someone will still be in the lab, but this is not guaranteed.
 
@@ -28,8 +29,6 @@ _Italic means class hours._ Some or all TAs may be in class. Sometimes, someone 
 |  3:00 - 3:59 PM  |      _Katie_       | Katie (3:20), Daniel |       _Keaton_        | Katie (3:20), Keaton | Katie, Daniel  |
 |  4:00 - 4:59 PM  |      _Katie_       |    Katie, Daniel     |    _Katie, Keaton_    |    Katie, Daniel     | Katie, Daniel  |
 |  5:00 - 5:59 PM  |       Daniel       |        Daniel        |        Daniel         |        Daniel        |     Daniel     |
-
-**Note: There is a 3 visit limit for TA help per day.** This is to encourage you to do as much as you can on your own before coming for help.
 
 ## For help during class hours
 
