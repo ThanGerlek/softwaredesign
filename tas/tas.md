@@ -1,6 +1,12 @@
 # TA Location and Hours
 
+## Contacting a TA
+
 The TA Lab is in TMCB 1160.
+
+Our preferred contact method is via Slack (the join link is on [this page](https://github.com/BYU-CS-340/softwaredesign/blob/main/README.md)). If that doesn't work, cs340ta.byu@gmail.com works as well.
+
+## Getting help
 
 TAs are available on Zoom unless otherwise stated. (Send them a Slack message if you're unsure.)
 Check the #Announcements channel on Slack for corrections.
@@ -29,25 +35,19 @@ _Italic means class hours._ Some or all TAs may be in class. Sometimes, someone 
 
 During class hours, one TA will sometimes be available in the lab, but this is not guranteed. In-class TAs' attention is primarily on the students in class. Pass offs are not guaranteed by in class TA's. If you need help during another section's class time and no one is in the lab, use the #exercies & #milestone channels on our Slack. (The link to join Slack is on [this page](https://github.com/BYU-CS-340/softwaredesign/blob/main/README.md).)
 
-## For help in person
+### For help in person
 
 Stop by the TA Lab in TMCB 1160. If it's very busy (such as on a pass off day), you may want to message a TA on Slack first, then come to the lab if they indicate that they are available.
 
-## For help on Slack
+### For help on Slack
 
-We have a #help-queue channel (You might need to search and add it) if you want help from TAs. You can also ask questions in the #exercises and #milestone channels on our Slack. (The link to join Slack is on [this page](https://github.com/BYU-CS-340/softwaredesign/blob/main/README.md).)
+We have a #help-queue channel (you might need to search and add it) if you want help from TAs. You can also ask questions in the #exercises and #milestone channels on our Slack. (The link to join Slack is on [this page](https://github.com/BYU-CS-340/softwaredesign/blob/main/README.md).)
 
-## For help on Zoom
+### For help on Zoom
 
-###
-
-> [!WARNING]
-> On pass off weeks, especially towards the deadline, if a TA isn't in their personal zoom room they may be busy with passing students off and won't be available to help with individual questions.
-
-TA Zoom Links (WIP):
-
-- Than - [Than's Zoom Link](https://byu.zoom.us/my/ThanGerlek)
-
-If the TA is not in their Zoom room during their hours, message them on Slack.
+####
 
 If a TA is not in the Lab, they may be available over Zoom; message them on Slack.
+
+> [!WARNING]
+> On pass off weeks, especially towards the deadline, if a TA doesn't respond to a help request, they may be busy with passing students off and won't be available to help with individual questions.
