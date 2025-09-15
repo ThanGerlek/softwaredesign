@@ -13,7 +13,7 @@ _Italic means class hours._ Some or all TAs may be in class. Sometimes, someone 
 
 |                  |       Monday       |       Tuesday        |       Wednesday       |       Thursday       |     Friday     |
 | :--------------: | :----------------: | :------------------: | :-------------------: | :------------------: | :------------: |
-|  9:00 - 9:59 AM  |        Than        |        Katie         |      Than, Katie      |        Katie         |     Katie      |
+|  9:00 - 9:59 AM  |        Than        |        Katie         |      Than, Katie      |        Katie         |   Than, Katie  |
 | 10:00 - 10:59 AM |       Alden        |    Katie, Keaton     |     Katie, Alden      |     Katie, Alden     |     Katie      |
 | 11:00 - 11:59 AM |       Alden        |   **_Devotional_**   |         Alden         |        Alden         |     Keaton     |
 | 12:00 - 12:59 PM |    Than, Daniel    |    Keaton, Alden     |        Daniel         |   **_TA Meeting_**   | Daniel, Keaton |
