@@ -1,6 +1,6 @@
 # UML Sequence Diagram Exercise
   
-Complete the following exercise using software such as [Lucidchart](https://www.lucidchart.com/) and submit your work here.
+Complete the following exercise using software such as [Lucidchart](https://www.lucidchart.com/) and submit your work on Canvas.
 
 ## Diagram Software
 
