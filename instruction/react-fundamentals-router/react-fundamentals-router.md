@@ -23,4 +23,4 @@ React Fundamentals / React Router Quiz
 
 [React Router - Slides](https://docs.google.com/presentation/d/19pOzFFL6kPWEHAkapt-FPQJTl_fxZUMY4adoXSiYDWc/edit?usp=sharing)
 
-[Rodham Lecture Notes](./rodham-notes/notes.txt)
+[Rodham Lecture Notes](./rodham-notes/notes.md)
