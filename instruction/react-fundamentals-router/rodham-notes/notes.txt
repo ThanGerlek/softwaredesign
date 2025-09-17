@@ -1,0 +1,124 @@
+
+***** Tweeter Starter Code *****
+
+	- Milestone 1
+	
+	- Demo (login/register, toasts)
+
+
+***** Let's review React concepts in the context of Tweeter client *****
+
+CONCEPT: Web Page = HTML + Javascript + Events
+	
+	- simple.html
+
+
+CONCEPT: DOM (image)
+
+	- DOM.jpg
+
+
+CONCEPT: Traditional Web App vs Single Page Application (SPA)
+
+	- User points browser at web app's URL
+
+	- Retrieves root page from server
+
+	
+CONCEPT: Web Client Frameworks
+
+	- Before web client frameworks came along, browser programming was a mess
+		Angular, Vue, React
+
+	- UI is decomposed into "components"
+
+	- Each component is responsible for rendering part of the DOM tree, and handling user events in its part of the tree
+
+	- The root component renders the top part of the DOM, and invokes other components to render sub-parts of the DOM
+
+
+CONCEPT: In React, components are functions that render part of the DOM
+
+	- Create basic React app using Vite build tool
+	
+	- "Create React TypeScript App with Vite" slide
+		- npm create vite@latest vite-app -- --template react-ts
+
+	- App component is function that returns its part of the DOM, including event handlers
+
+	- JSX is declarative description of the component's DOM (declarative vs. procedural)
+
+	- JSX compiler converts JSX code into procedural JavaScript code that updates the DOM
+
+	- Change App to use "let count = 0" and "count + 1" to motivate useState
+
+	- HMR
+
+	- Debugging
+
+
+***** REACT CONCEPTS IN TWEETER *****
+
+CONCEPT: PROPS + CONDITIONAL RENDERING
+
+	- Data populating or displayed by UI typically comes from web API calls to server
+
+	- Could be root component fetching and data, or any other component
+
+	- Data can be passed to sub-components through PROPS
+
+	- EXAMPLE: Login vs Register (demo + code)
+
+	- Notice CONDITIONAL RENDERING on Submit button in <AuthenticationFormLayout>
+
+	- PROPS changes trigger re-render of component
+
+	
+CONCEPT: STATE + VIRTUAL DOM
+
+	- Review Login state variables (alias, password, rememberMe, isLoading)
+
+	- Setting any of these variables will trigger a re-render of component
+
+	- Every key stroke updates these variables, and therefore re-renders
+
+	- This seems very heavy-weight. How does React make this frequent re-render process efficient?
+
+	- VIRTUAL DOM
+
+
+***** REACT ROUTING *****
+
+CONCEPT: What is a "route"
+
+	- route.md
+	
+CONCEPT: React Router
+
+	- Review Tweeter top-level structure and routes: index.html, index.tsx, App.tsx
+
+	- "Route Paths" slide
+	
+	- "Layout Routes" and "Layout Routes: Outlet" slide
+
+CONCEPT: In-app Navigation
+
+	- Demo navigation in Tweeter
+		- Navigate when switching between login <---> register
+		- Navigate after login/register
+		- Navigate when changing between tabs
+		
+	- navigate(path) in Register.tsx (doRegister)
+	
+	- <Link ...> in Register.tsx (switchAuthenticationMethodFactory)
+	
+	- <NavLink ...> in AppNavbar.tsx
+
+CONCEPT: Accessing URL Location and Params
+
+	- Access URL location (path) in AppNavBar.tsx
+	
+	- Access URL param
+		- App.tsx to define :displayUser param, 
+		- useParams() in FeedScroller.tsx to access :displayUser param
+	
