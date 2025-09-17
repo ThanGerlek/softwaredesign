@@ -22,4 +22,4 @@ Using software such as draw.io or Lucidchart, create a Sequence Diagram showing 
 
 ## Submission
 
-Submit your diagram to Canvas as a PDF.
+Submit your diagram to Canvas as a PDF or SVG.
