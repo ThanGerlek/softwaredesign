@@ -26,7 +26,7 @@
 |  9   | 16  | Mon Oct 27 | [API Gateway](../instruction/api-gateway/api-gateway.md)<br/> [Midterm Review](../instruction/midterm-review/midterm-review.md) | API Gateway Quiz |
 |      |     | Tue Oct 28 | | [API Gateway Exercise](../instruction/api-gateway/api-gateway-exercise.md) |
 |      | 17  | Wed Oct 29 | [Intro to Milestone 3](../instruction/tweeter/milestone-3/milestone-3.md) | |
-|      |     | Sat Nov 1 | | [Midterm Exam](../instruction/midterm-exam/midterm-exam.md) |
+|      |     | Fri Oct 31 | | [Midterm Exam](../instruction/midterm-exam/midterm-exam.md) |
 |  10  | 18  | Mon Nov 3  | [Facade and Proxy](../instruction/facade-proxy/facade-proxy.md) | Facade and Proxy Quiz<br/> [Proxy Exercise](../instruction/facade-proxy/proxy-exercise.md) |
 |      | 19  | Wed Nov 5  | [Cloud Data Store (DynamoDB)](../instruction/cloud-datastore-dynamodb/cloud-datastore-dynamodb.md) | Cloud Data Store (DynamoDB) Quiz<br/> [DynamoDB Exercise Part 1](../instruction/cloud-datastore-dynamodb/dynamodb-exercise-1.md) |
 |  11  | 20  | Mon Nov 10 | [Abstracting Dependencies + Adapter Pattern + DAO/DTO Pattern (Pre-class preparation)](../instruction/abstracting-dependencies-adapter-dao/abstracting-dependencies-adapter-dao.md) | Adapter Pattern and DAO/DTO Pattern Quiz<br/> [DynamoDB Exercise Part 2](../instruction/abstracting-dependencies-adapter-dao/dynamodb-exercise-2.md) |
