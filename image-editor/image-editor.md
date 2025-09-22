@@ -90,6 +90,8 @@ Your program will also need to access its command-line arguments. In the Node.js
 
 The provided Java code uses integer arithmetic in all of its algorithms. The grayscale and motionblur algorithms use division. The fractional part of any integer division result is automatically dropped by Java. In TypeScript, since all numbers are represented as floating point numbers, the fractional parts of division results are not automatically dropped, and you will need to do this yourself by using the `Math.floor` function.
 
+It's tempting to use the TypeScript's `myArray.shift()` method to simulate `Scanner.nextInt()` in Java. This can technically work, but is not recommended: `shift()` copies the entire array every time it's called, so your code may run incredibly slowly on the larger images.
+
 ## Submission
 
 When you are confident that your TypeScript Image Editor is working, submit the following files on Canvas:
