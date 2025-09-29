@@ -14,7 +14,7 @@ Check the #Announcements channel on Slack for corrections.
 
 ### Normal Hours
 
-_Italic means class hours._ Some or all TAs may be in class. Sometimes, someone will still be in the lab, but this is not guaranteed.
+_Cells with Italic and_ 👩🏻‍🏫 _means in class hours._ Some or all TAs may be in class. Sometimes, someone will still be in the lab, but this is not guaranteed.
 
 **_Bold and italic means unavailable._**
 
@@ -24,10 +24,10 @@ _Italic means class hours._ Some or all TAs may be in class. Sometimes, someone 
 | 10:00 - 10:59 AM |       Alden        |    Katie, Keaton     |     Katie, Alden      |     Katie, Alden     |     Katie      |
 | 11:00 - 11:59 AM |       Alden        |   **_Devotional_**   |         Alden         |        Alden         |     Keaton     |
 | 12:00 - 12:59 PM |    Than, Daniel    |    Keaton, Alden     |        Daniel         |   **_TA Meeting_**   | Daniel, Keaton |
-|  1:00 - 1:59 PM  |   _Than, Daniel_   |     Than, Keaton     |    _Than, Daniel_     |    Daniel, Keaton    | Daniel, Keaton |
-|  2:00 - 2:59 PM  |   _Than, Alden_    |        Daniel        | _Than, Alden, Keaton_ |    Daniel, Keaton    |     Keaton     |
-|  3:00 - 3:59 PM  |      _Katie_       | Katie (3:20), Daniel |       _Keaton_        | Katie (3:20), Keaton | Katie, Daniel  |
-|  4:00 - 4:59 PM  |      _Katie_       |    Katie, Daniel     |    _Katie, Keaton_    |    Katie, Daniel     | Katie, Daniel  |
+|  1:00 - 1:59 PM  |  👩🏻‍🏫 _Than, Daniel_   |     Than, Keaton     |   👩🏻‍🏫 _Than, Daniel_     |    Daniel, Keaton    | Daniel, Keaton |
+|  2:00 - 2:59 PM  |  👩🏻‍🏫 _Than, Alden_    |        Daniel        | 👩🏻‍🏫 _Than, Alden, Keaton_ |    Daniel, Keaton    |     Keaton     |
+|  3:00 - 3:59 PM  |    👩🏻‍🏫  _Katie_       | Katie (3:20), Daniel |      👩🏻‍🏫 _Keaton_        | Katie (3:20), Keaton | Katie, Daniel  |
+|  4:00 - 4:59 PM  |     👩🏻‍🏫 _Katie_       |    Katie, Daniel     |  👩🏻‍🏫 _Katie, Keaton_    |    Katie, Daniel     | Katie, Daniel  |
 |  5:00 - 5:59 PM  |       Daniel       |        Daniel        |        Daniel         |        Daniel        |     Daniel     |
 
 ### For help during class hours
