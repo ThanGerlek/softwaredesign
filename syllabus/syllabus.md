@@ -50,6 +50,12 @@ Assignments may not be submitted for credit after the last day of class.
 
 This late policy does not apply to quizzes. Quizzes may not be taken late because we make the answers available immediately after the due date. However, we drop your lowest quiz score, so a missed quiz will just become the quiz we drop.
 
+## Resubmission Policy
+
+For in-class exercises and other assignments that do not require a passoff, if you lose points due to an incorrect submission, the TAs will leave feedback suggesting how to improve your score. If the assignment is redone and resubmitted within one week of the assignment being graded, you can get back up to half of the points that you lost. However, if your initial submission was late, the original late penalty will still apply.
+
+Ex: if you lose 20% for being two days late, and another 10% for missing a function, you will receive 70% credit. If you add the missing function and resubmit, you can get back half of the 10% lost, for 75%.
+
 ## LLMs, Generative AI, etc. Policy
 
 1. Students may use AI assistants to support their learning and course objectives. Not all AI generated information (or code, for that matter) is accurate or consistent with what we are teaching in this course. Please do not let uncritical use of AI tools interfere with your learning.
