@@ -33,7 +33,7 @@ You are to use the **observer pattern** as demonstrated in the M2A demo video to
 
 Your view layer (React components and hooks) should only contain code that directly interacts with the user, either by displaying output or receiving input events from the user. In your milestone 1 code, the view layer also contains the non-visual user interface logic that belongs in the presenter layer, and the "application logic" that belongs in the application-logic layer. Your job is to create presenter and application-logic layers, and move code out of the view layer and into the classes in these new layers.
 
-- Every functionality that contacts the server should follow the layered MVP architecture. There are 14 functionalities total. 12 of them currently call FakeData. PostStatus and Logout do not call FakeData but should also follow the MVP architecture. 
+- Every functionality that contacts the server should follow the layered MVP architecture. There are 14 functionalities total. 12 of them currently call FakeData (either directly or indirectly). PostStatus and Logout do not call FakeData but should also follow the MVP architecture.
 
 ### Create an Application-Logic layer
 
@@ -45,7 +45,7 @@ For this program there are 14 different kinds of requests the client sends to th
 
 Create a layer of presenter classes for the major components and in some cases hooks in the application. You need a presenter for each component and for each hook that accesses dummy data or has other logic that is not directly related to interacting with the user or rendering the view.
 
-Each presenter class should define a view interface that is used by it's component or hook. This is the method interface through which the presenter will call its view. For example, the view interface should include methods for things such as passing data to the view for display, displaying messages to the user, and enabling/disabling UI controls). See the [demo video](https://youtu.be/S7SSECBlBd0) for examples of what this looks like.
+Each presenter class should define a view interface that is used by it's component or hook. This is the method interface through which the presenter will call its view. For example, the view interface should include methods for things such as passing data to the view for display, displaying messages to the user, and enabling/disabling UI controls. See the [demo video](https://youtu.be/S7SSECBlBd0) for examples of what this looks like.
 
 Move all user-interface logic that does not directly display output or receive input from each component or hook into the corresponding Presenter classes. Examples of logic you should move from components and hooks to presenters include:
 
@@ -65,7 +65,7 @@ Add public methods to your presenter classes as needed to allow views to call th
 
 ## Rubric
 
-- (25) Layered Architecture 
+- (25) Layered Architecture
   - (15) MVP: Generally working, correct logic split among MVP layers
   - (10) Observer Pattern
 
