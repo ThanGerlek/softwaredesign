@@ -21,7 +21,7 @@ The files required to complete this assignment are available in a zip file locat
 
 PPM image files can be viewed with Adobe Photoshop or free programs such as [GIMP](https://www.gimp.org/downloads/).
 
-## Instructions
+## Setup Instructions
 
 1. On your computer, install the most current version of Node.js located [HERE](https://nodejs.org/en/download). This will install both the Node.js runtime as well as the NPM "Node package manager" which is used to manage your project's external library dependencies. If you already have an older version of Node.js installed, we recommend that you update to the latest version.
 
@@ -53,13 +53,7 @@ PPM image files can be viewed with Adobe Photoshop or free programs such as [GIM
 >       "sourceMap": true,
 >       "outDir": "dist",
 
-9. Create one or more `.ts` files that contain your Image Editor implementation.
-
-Your program will need to read and write PPM image text files. To do this file I/O you will need to use APIs that are specific to the Node.js environment. Documentation for the Node.js APIs can be found [HERE](https://nodejs.org/docs/latest/api/). The specific APIs you will need are found in the `File system` module. Use any APIs you like to read and write files. For example, you might use the [readFileSync](https://nodejs.org/docs/latest/api/fs.html#fsreadfilesyncpath-options) function to read the entire contents of a file as a string, and you might use the [openSync](https://nodejs.org/docs/latest/api/fs.html#fsopensyncpath-flags-mode), [writeSync](https://nodejs.org/docs/latest/api/fs.html#fswritesyncfd-string-position-encoding), and [closeSync](https://nodejs.org/docs/latest/api/fs.html#fsclosesyncfd) functions to write data to an output file (i.e., open the file, write data to the file, and close the file).
-
-Your program will also need to access its command-line arguments. In the Node.js environment, command-line arguments can be accessed using the `process.argv` property. Note that the actual command-line arguments start at `process.argv[2]`.
-
-Note: The provided Java code uses integer arithmetic in all of its algorithms. The grayscale and motionblur algorithms use division. The fractional part of any integer division result is automatically dropped by Java. In TypeScript, since all numbers are represented as floating point numbers, the fractional parts of division results are not automatically dropped, and you will need to do this yourself by using the `Math.floor` function. 
+9. Create one or more `.ts` files that will contain your Image Editor implementation.
 
 10. Add the following `scripts` property to your `package.json` file. These script commands will let you compile and run your program using NPM.
 
@@ -88,7 +82,18 @@ Having created a run configuration, you can compile your program in VS Code by s
 
 More details on configuring VS Code as a TypeScript development environment can be found [HERE](https://code.visualstudio.com/docs/typescript/typescript-tutorial).
 
-Submission
+## Assignment Tips
+
+Your program will need to read and write PPM image text files. To do this file I/O you will need to use APIs that are specific to the Node.js environment. Documentation for the Node.js APIs can be found [HERE](https://nodejs.org/docs/latest/api/). The specific APIs you will need are found in the `File system` module. Use any APIs you like to read and write files. For example, you might use the [readFileSync](https://nodejs.org/docs/latest/api/fs.html#fsreadfilesyncpath-options) function to read the entire contents of a file as a string, and you might use the [openSync](https://nodejs.org/docs/latest/api/fs.html#fsopensyncpath-flags-mode), [writeSync](https://nodejs.org/docs/latest/api/fs.html#fswritesyncfd-string-position-encoding), and [closeSync](https://nodejs.org/docs/latest/api/fs.html#fsclosesyncfd) functions to write data to an output file (i.e., open the file, write data to the file, and close the file).
+
+Your program will also need to access its command-line arguments. In the Node.js environment, command-line arguments can be accessed using the `process.argv` property. Note that the actual command-line arguments start at `process.argv[2]`.
+
+The provided Java code uses integer arithmetic in all of its algorithms. The grayscale and motionblur algorithms use division. The fractional part of any integer division result is automatically dropped by Java. In TypeScript, since all numbers are represented as floating point numbers, the fractional parts of division results are not automatically dropped, and you will need to do this yourself by using the `Math.floor` function.
+
+It's tempting to use the TypeScript's `myArray.shift()` method to simulate `Scanner.nextInt()` in Java. This can technically work, but is not recommended: `shift()` copies the entire array every time it's called, so your code may run incredibly slowly on the larger images.
+
+## Submission
+
 When you are confident that your TypeScript Image Editor is working, submit the following files on Canvas:
 
 Your TypeScript source files
