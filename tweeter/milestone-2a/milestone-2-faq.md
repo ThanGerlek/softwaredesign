@@ -49,7 +49,7 @@ You can ask the TAs specific questions about your UMLs. We cannot do a general r
 
 ## How do I show an Asynchronous call in a Sequence Diagram?
 
-This one-minute [video](https://www.youtube.com/shorts/QRA1Xes6VDo) explains how to represent an asynchronous messages in a sequence diagram.
+This one-minute [video](https://www.youtube.com/shorts/QRA1Xes6VDo) explains how to represent an asynchronous message in a sequence diagram.
 
 ## Can I ask the TAs to look over my architecture?
 You can ask the TAs specific questions about your architecture. We cannot do a general review of your architecture.
