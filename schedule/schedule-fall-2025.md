@@ -6,9 +6,9 @@
 |      |     | Thu Sep 4  | | Javascript Fundamentals Quiz |
 |  2   |  2  | Mon Sep 8  | [TypeScript Fundamentals 2](../instruction/typescript-fundamentals-2/typescript-fundamentals-2.md) | TypeScript Fundamentals Quiz |
 |      |  3  | Wed Sep 10 | [React Fundamentals / React Router](../instruction/react-fundamentals-router/react-fundamentals-router.md) | React Fundamentals / React Router Quiz |
-|  3  |   4  | Mon Sep 15 | [React Hooks / React State](../instruction/react-hooks-state/react-hooks-state.md) | React Hooks / React State Quiz<br/> [Image Editor - Convert to TypeScript](../image-editor/image-editor.md) |
-|     |   5  | Wed Sep 17 | [Modeling / UML](../instruction/modeling-uml/modeling-uml.md)<br/> [Intro to Milestone 1](../instruction/tweeter/milestone-1/milestone-1.md) | Modeling / UML Quiz |
-|      |     | Thu Sep 18  | | [UML Sequence Diagram Exercise](../instruction/modeling-uml/uml-sequence-diagram-exercise.md) |
+|  3  |   4  | Mon Sep 15 | [React Hooks / React State](../instruction/react-hooks-state/react-hooks-state.md)<br/> [Intro to Milestone 1](../instruction/tweeter/milestone-1/milestone-1.md) | React Hooks / React State Quiz<br/> [Image Editor - Convert to TypeScript](../image-editor/image-editor.md) |
+|     |   5  | Wed Sep 17 | [Modeling / UML](../instruction/modeling-uml/modeling-uml.md) | Modeling / UML Quiz |
+|     |      | Thu Sep 18  | | [UML Sequence Diagram Exercise](../instruction/modeling-uml/uml-sequence-diagram-exercise.md) |
 |  4  |   6  | Mon Sep 22 | [Software Architecture](../instruction/software-architecture/software-architecture.md) | Software Architecture Quiz |
 |      |  7  | Wed Sep 24 |[Patterns Intro / Observer](../instruction/patterns-observer/patterns-observer.md) | Patterns Intro / Observer Quiz<br/> [Observer Exercise](../instruction/patterns-observer/observer-exercise.md) |
 |      |     | Thu Sep 25 | | Milestone 1 AI Quiz<br/> [Milestone 1](../tweeter/milestone-1/milestone-1.md) |
@@ -26,7 +26,7 @@
 |  9   | 16  | Mon Oct 27 | [API Gateway](../instruction/api-gateway/api-gateway.md)<br/> [Midterm Review](../instruction/midterm-review/midterm-review.md) | API Gateway Quiz |
 |      |     | Tue Oct 28 | | [API Gateway Exercise](../instruction/api-gateway/api-gateway-exercise.md) |
 |      | 17  | Wed Oct 29 | [Intro to Milestone 3](../instruction/tweeter/milestone-3/milestone-3.md) | |
-|      |     | Sat Nov 1 | | [Midterm Exam](../instruction/midterm-exam/midterm-exam.md) |
+|      |     | Fri Oct 31 | | [Midterm Exam](../instruction/midterm-exam/midterm-exam.md) |
 |  10  | 18  | Mon Nov 3  | [Facade and Proxy](../instruction/facade-proxy/facade-proxy.md) | Facade and Proxy Quiz<br/> [Proxy Exercise](../instruction/facade-proxy/proxy-exercise.md) |
 |      | 19  | Wed Nov 5  | [Cloud Data Store (DynamoDB)](../instruction/cloud-datastore-dynamodb/cloud-datastore-dynamodb.md) | Cloud Data Store (DynamoDB) Quiz<br/> [DynamoDB Exercise Part 1](../instruction/cloud-datastore-dynamodb/dynamodb-exercise-1.md) |
 |  11  | 20  | Mon Nov 10 | [Abstracting Dependencies + Adapter Pattern + DAO/DTO Pattern (Pre-class preparation)](../instruction/abstracting-dependencies-adapter-dao/abstracting-dependencies-adapter-dao.md) | Adapter Pattern and DAO/DTO Pattern Quiz<br/> [DynamoDB Exercise Part 2](../instruction/abstracting-dependencies-adapter-dao/dynamodb-exercise-2.md) |

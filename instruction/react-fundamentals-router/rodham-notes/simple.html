@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>HTML + JavaScript + Events</title>
+	</head>
+	<body onload="pageLoaded()">
+
+		<h1>HTML + JavaScript + Events</h1>
+
+		<p id="message">Click the button to see a message!</p>
+
+		<button onclick="displayMessage()">Click Me</button>
+
+		<script>
+			function pageLoaded() {
+				alert("The entire page has finished loading!");
+			}
+
+			function displayMessage() {
+				// Get the HTML element with the ID "message"
+				const messageElement = document.getElementById("message");
+
+				// Change the text content of the element
+				messageElement.textContent = "Hello from JavaScript!";
+
+				// Optionally, change the style
+				messageElement.style.color = "blue";
+				messageElement.style.fontWeight = "bold";
+			}
+		</script>
+
+	</body>
+</html>

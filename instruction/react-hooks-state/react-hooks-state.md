@@ -17,3 +17,8 @@ React Hooks / React State Quiz
 [React Hooks - Slides](https://docs.google.com/presentation/d/1uvXG2oblz7-EWZBMaVON8HcuMjM6LnuI9tIxZd0ZApc/edit?usp=sharing)
 
 [React State - Slides](https://docs.google.com/presentation/d/17CmZXxWlX5s6-FqVrORl80hX_invbTh4RcxKdUwOu0c/edit?usp=sharing)
+
+
+## Instructor-Specific Slides/Notes/Files
+
+[Rodham Lecture Notes](./rodham-notes/state-hooks.md)

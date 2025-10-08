@@ -1,12 +1,12 @@
 # UML Sequence Diagram Exercise
   
-Complete the following exercise using software such as Lucidchart Links to an external site.and submit your work here.
+Complete the following exercise using software such as [Lucidchart](https://www.lucidchart.com/) and submit your work on Canvas.
 
 ## Diagram Software
 
 For this exercise, you will be creating a sequence diagram, as described in the pre-class readings. Drawing a diagram on paper or a whiteboard can be a great way to help you visualize your application and understand its architecture, but when you present your diagram to others, hand-drawn is not usually what you want; it looks sloppy and unprofessional. Using image editing software (e.g., Microsoft Paint, Photoshop, Gimp) is usually even worse.
 
-Fortunately, there are plenty of diagramming applications out there that you can use to produce readable, professional-looking diagrams. You are free to use any such software that you prefer to create the UML diagrams for this class. If you don't know what to use, we recommend [Lucidchart](https://www.lucidchart.com/) or [draw.io](https://app.diagrams.net/). Draw.io is free. You can [set up a free Lucid student account](https://help.lucid.co/hc/en-us/articles/360049831771-Sign-up-for-a-free-Educational-account) to get access to all of the features you will need for this class.
+Fortunately, there are plenty of diagramming applications out there that you can use to produce readable, professional-looking diagrams. You are free to use any such software that you prefer to create the UML diagrams for this class. If you don't know what to use, we recommend [Lucidchart](https://www.lucidchart.com/), [draw.io](https://app.diagrams.net/), or [sequencediagram.org](https://sequencediagram.org/). Draw.io and sequencediagram.org are free. You can [set up a free Lucid student account](https://help.lucid.co/hc/en-us/articles/360049831771-Sign-up-for-a-free-Educational-account) to get access to all of the features you will need for this class. With sequencediagram.org, rather than drawing the diagram, you describe the intended diagram in a textual format, and the tool generates the visual diagram automatically.
 
 ## Description
 
@@ -22,4 +22,4 @@ Using software such as draw.io or Lucidchart, create a Sequence Diagram showing 
 
 ## Submission
 
-Submit your diagram to Canvas as a PDF.
+Submit your diagram to Canvas as a PDF or SVG.
