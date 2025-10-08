@@ -13,7 +13,7 @@ No, your app should just use hardcoded dummy data.
 
 ## How many presenters should I have?
 
-In MVP generally there is only one presenter per view.  For the course project you should have only one presenter per view (React component or hook). Some components and hooks that deal only with display logic do not need a presenter.
+In MVP generally there is only one presenter per view.  For the course project you should have only one presenter per view (React component or hook). Some components and hooks that deal only with display logic do not need a presenter. In total, you should end with at least 12 presenters (or more if you created superclasses).
 
 ## Can there be more than one presenter per view?
 

@@ -33,7 +33,7 @@ You are to use the **observer pattern** as demonstrated in the M2A demo video to
 
 Your view layer (React components and hooks) should only contain code that directly interacts with the user, either by displaying output or receiving input events from the user. In your milestone 1 code, the view layer also contains the non-visual user interface logic that belongs in the presenter layer, and the "application logic" that belongs in the application-logic layer. Your job is to create presenter and application-logic layers, and move code out of the view layer and into the classes in these new layers.
 
-- Every functionality that contacts the server should follow the layered MVP architecture. There are 14 functionalities total. 12 of them currently call FakeData. PostStatus and Logout do not call FakeData but should also follow the MVP architecture. 
+- Every functionality that contacts the server should follow the layered MVP architecture. There are 14 functionalities total. 12 of them currently call FakeData (either directly or indirectly). PostStatus and Logout do not call FakeData but should also follow the MVP architecture.
 
 ### Create an Application-Logic layer
 
