@@ -35,7 +35,7 @@ npm install --save-dev @typestrong/ts-mockito@2.7.12
 
 ## Configuration Changes in package.json
 
-Make the following changes to the package.json file **in the tweeter-web module/folder** (not to the package.json file at the root of your project):
+Make the following changes to the package.json file **in the tweeter-web module** (not to the package.json file at the root of your project):
 
 1. Add the following to the scripts section of package.json:
 ```
