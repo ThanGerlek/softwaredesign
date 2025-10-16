@@ -35,6 +35,6 @@ In part three of the assignment, you will improve the provided Tweeter UI by add
 
 - Pass off your project with a TA by the due date before TA's are off for the day (you must be in the pass off queue 1 hour before they are off to guarantee same-day pass off)
 - You can only passoff once
-- If you passoff before the passoff day, you will get an additional 5% of extra credit for this assignment
+- If you passoff before the passoff day, you will get an additional 4% of extra credit for this assignment
 
 ## [Milestone 1 FAQ](./milestone-1-faq.md)
